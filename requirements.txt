@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+textblob
+openpyxl
+
+groq
+plotly
